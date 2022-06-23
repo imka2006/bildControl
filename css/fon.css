@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+.fon{
+    background-size:cover ;
+    z-index: index -9999;;
+    background-color: #212B31;
+    width: 100%;
+    margin-bottom: 143px;
+}
+.two_fon{
+   margin-top: 178px;
+}
+.left_fon{
+    margin-left: 192px;
+    margin-top: 143px;
+    text-align: left;
+}
+.play{
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background-color: white;
+    margin-right: 32px;
+    
+}
+
+.title_fon{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 48px;
+    color: #FFFFFF;
+    margin-bottom: 50px;
+}
+.idi{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    color: #FFFFFF;
+    margin-top: -15px;   
+    width: 534px; 
+}
+.par{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: rgba(255, 255, 255, 0.75);
+    margin-bottom: 24px;
+    margin-top: -20px;
+}
+.dal{
+    margin-left: 32px;
+}
+.butodin{
+    padding:13px 25px;
+    background: #FFFFFF;
+    border: 1px solid #DADEDF;
+    box-sizing: border-box;
+    border-radius: 4px;
+    margin-right: 8px;
+}
+.butodin:hover{
+    transition: 0.5s;
+    color: #ffffff;
+    background-color: #212B31;
+}
+
+
+
+.buttwo{
+    padding:13px 25px;
+    background: #212B31;
+    border: 1px solid #DADEDF;
+    box-sizing: border-box;
+    box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.16);
+    border-radius: 4px;
+    color: #FFFFFF;
+    margin-left: 8px;
+}
+.buttwo:hover{
+    transition: 0.5s;
+    color: #212B31;
+    background-color:#ffffff ;
+}
+.dom{
+    margin: 20px 0px 140px 192px;
+}
+
+/* fon 2part */
+
+
+.grusno{
+    text-align: center;
+}
+.eto h3{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    color: #ffffff;
+    padding-top: 20px;
+}
+.eto p{
+    color: rgba(255, 255, 255, 0.75);
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    width: 340px;
+    margin-top: 10px;
+    margin-bottom: 118px;
+}
+.z_index{
+    z-index: index -1;
+    position:absolute ;
+    margin-bottom: 20px;
+}
+.relative_one{
+    position:relative;
+    top:15.5px;
+    right: 12.5px;
+    bottom: 15.94px;
+    left: 12.5px;
+}
+.relative_two{
+    position:relative;
+    top: 14px;
+    right: 12px;
+    bottom: 12px;
+    left: 14px;
+}
+.relative_three{
+    position:relative;
+    top: 11.78px;
+    right: 14.78px;
+    bottom: 12.78px;
+    left: 14.78px;
+}

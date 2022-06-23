@@ -1,0 +1,28 @@
+
+.fon__last{
+    z-index: -1;
+    position: absolute;
+    
+}
+.title__last{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 64px;
+    
+    color: #212B31;
+    width: 980px;
+    margin: 0 auto;
+}
+.last__info{
+    position: relative;
+    top: 117px;
+    margin: 0 auto;
+    text-align: center;
+
+}
+.last__buttons{
+    margin-top: 54px;
+    margin-bottom: 371px;
+}

@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+.what{
+    margin-top: 80px;
+}
+.lol_inner{
+    display: flex;
+    margin-top: 28px;
+    margin-bottom: 64px;
+}
+.your{
+    text-align: center;
+}
+.what_h2{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 48px;
+    color: #212B31;
+    /* margin-bottom: 20px; */
+}
+.text_what{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;    
+    color: #72787D;
+    width: 825px;
+    margin: 0 auto;
+    padding-bottom: 28px;
+}
+.left_item{
+    width: 500px;
+    padding-right: 90px;
+}
+.h2_lol{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    color: #212B31;
+}
+.text_lol{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #72787D;
+    width: 500px;
+
+}
+.right_item img{
+    line-height: center;}
+
+
+
+
+
+
+
+
+
+
+.pop_inner{
+    display: flex;
+    margin-bottom: 64px;
+}
+.right_item{
+    width: 515px;
+    margin-left: 100px;
+}
+.h2_pop{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    color: #212B31;
+    margin-bottom: 20px;
+}
+.text_pop{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #72787D;
+}
+
+
+
+
+
+
+
+
+
+.top_inner{
+    display: flex;
+    margin-bottom: 143px;
+}
+.right_item{
+ margin-left: 34px;
+}
+.left_item{
+    width: 550px;
+}
+.h2_top{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    color: #212B31;
+}
+.text_top{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #72787D;
+}

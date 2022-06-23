@@ -1,0 +1,57 @@
+.job_content{
+    display: flex;
+    justify-content: space-between;
+}
+.job_right,
+.job_left{
+    max-width: 45%;
+}
+.job_title{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 48px;
+    color: #212B31;
+}
+.job_descr{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    color: #72787D;
+}
+.job_name{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 24px;
+    color: #212B31;
+}
+.job_info{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #72787D;
+}
+.job_nam{
+    font-size: 16px;
+    color: #72787D;
+    width: 40px;
+    height: 40px;
+    border: 1px solid #DADEDF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 0;
+    left: -72px;
+}
+.job_item{
+    position: relative;
+}
+.joma{
+    margin-left: -32px;
+    margin-top: 30px;
+    margin-bottom: 96px;    
+}

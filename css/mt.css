@@ -1,0 +1,87 @@
+.seytek__title{
+    display: flex;
+    align-items: center;
+    margin-bottom: 22px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-transform: uppercase;
+    margin-bottom: 22px;
+    color: #212B31;
+
+}
+.doma{
+    margin-right: 8px;
+    
+}
+.tal li{
+    margin-left: -40px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    color: #72787D;
+    margin-bottom: 0px;
+}
+.tol li{
+    margin-left: -40px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    color: #72787D;
+}
+.io{
+    color:  #72787D;
+
+}
+.io:hover{
+    color: blue;
+    transition: 0.5s;
+}
+.tol li:hover{
+    color: blue;
+    transition: 0.5s;
+    
+}
+.ff{
+    margin-bottom: 160px;
+}
+.edin li:hover{
+    color: blue;
+    transition: 0.5s;
+}
+.podik{
+    display: flex;
+    justify-content: space-between;
+}
+.seytek{
+    text-align: left;
+}
+.edin li{
+    margin-left: -35px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    color: #72787D;
+}
+.cl{
+    margin-bottom: 31px;
+}
+.class{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 33px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #72787D;
+}

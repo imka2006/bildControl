@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+.hero {
+    padding-top: 170px;
+    margin-top: 74px;
+    color: #212B31;
+    text-align: center;
+    width: 818px;
+    margin: auto;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 64px;
+}
+.hero_inner{
+    text-align: center;
+    margin-top: 30px;
+    border-radius: 4px;
+}
+.button_one{
+    border: 1px solid #212B31;
+    padding: 13px 25px;
+    color: white;
+    background-color: #212B32;
+    margin-right:8px;
+    border-radius: 4px;
+}
+.button_one:hover{
+    transition: 0.5s;
+    color: #212B31;
+    background-color:#ffffff ;
+}
+.button_two{
+    padding:13px 25px;
+    background-color: #ffffff;
+    color: #212B31;
+    border: 1px solid #DADEDF;
+    border-radius: 4px;
+    margin-left: 8px;
+}
+.button_two:hover{
+    border: 1px solid #212b31;
+    transition: 0.5s;
+    color: #ffffff;
+    background-color: #212B31;
+}
+.images{
+    margin-top:88px;
+}
+.pop{
+    max-width: 806px;
+    margin: 0 auto;
+    overflow: hidden;
+    display: flex;
+    
+}
+.cars{
+
+   margin-top: 36px;
+    margin-right: 69px;
+    transform: translateX(-100%);
+    animation: cars 4s linear infinite;
+}
+@keyframes cars{
+    from{
+        transform: translateX(-200%);
+    }
+    to{
+        transform: translateX(2%);
+    }
+}
+
